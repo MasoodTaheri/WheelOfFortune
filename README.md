@@ -1,6 +1,8 @@
 # Wheel-of-Fortune
 Wheel of Fortune for Daily Bonus
 
+WebGL :https://masoodtaheri.github.io/WheelOfFortune/WhellOnWeb/index.html
+
 While working on the game you were asked to create daily bonus minigame, that will
 request data from a server and after successful response should present it to the user.
 
